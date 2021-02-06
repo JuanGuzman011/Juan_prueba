@@ -23,10 +23,6 @@ Turismo</b></span>: Sabemos que nuestros clientes son lo más importante, nos es
  	<li><strong><span style="color: #f18811;">Bungee Jumping</span>:</strong> Deporte extremo de saltar de un puente muy alto sitios similares con una larga cuerda elástica atada a sus piernas, de modo que cuando vallas llevando a su limite evite golpearte contra el suelo.</li>
 </ul>
 
-<h4><strong>Da clic en la imagen para ver video de turismo extremo</strong></h4>
-
-<a href="https://youtu.be/CZtZUqxmyrY"><img class="size-medium wp-image-4024 aligncenter" src="https://konexionlogistik.com/wp-content/uploads/2021/02/adrenalina-300x200.png" alt="" width="300" height="200" /></a>
-
 <img class="alignnone size-medium wp-image-4025" src="https://konexionlogistik.com/wp-content/uploads/2021/02/ciclas1-300x300.png" alt="" width="300" height="300" /> <img class="alignnone size-medium wp-image-4026" src="https://konexionlogistik.com/wp-content/uploads/2021/02/Paracaidas2-300x300.png" alt="" width="300" height="300" /> <img class="alignnone size-medium wp-image-4027" src="https://konexionlogistik.com/wp-content/uploads/2021/02/Rappel3-300x300.png" alt="" width="300" height="300" />
 <strong>                            Ciclismo                                                        </strong><b>Paracaídas                                                         <strong>Rappel</strong></b>
 
@@ -35,3 +31,8 @@ Turismo</b></span>: Sabemos que nuestros clientes son lo más importante, nos es
 <img class="alignnone size-medium wp-image-4029" src="https://konexionlogistik.com/wp-content/uploads/2021/02/Bungee5-300x300.png" alt="" width="300" height="300" /> <img class="alignnone size-medium wp-image-4028" src="https://konexionlogistik.com/wp-content/uploads/2021/02/4-300x300.png" alt="" width="300" height="300" />
 
 <strong>                         Bungee                                                            Canotaje</strong>
+
+
+<h4><strong>Da clic en la imagen para ver video de turismo extremo</strong></h4>
+
+<a href="https://youtu.be/CZtZUqxmyrY"><img class="size-medium wp-image-4024 aligncenter" src="https://konexionlogistik.com/wp-content/uploads/2021/02/adrenalina-300x200.png" alt="" width="300" height="200" /></a>
