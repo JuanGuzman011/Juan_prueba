@@ -1,5 +1,4 @@
 # Proyecto
-<marquee> Los mejores planes de turismo extremos </marquee>
 <html>
     <body>
         <h1> TURISMO EXTREMO </h1>
