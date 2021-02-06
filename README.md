@@ -30,7 +30,7 @@ Turismo</b></span>: Sabemos que nuestros clientes son lo más importante, nos es
 
 <img class="alignnone size-medium wp-image-4029" src="https://konexionlogistik.com/wp-content/uploads/2021/02/Bungee5-300x300.png" alt="" width="300" height="300" /> <img class="alignnone size-medium wp-image-4028" src="https://konexionlogistik.com/wp-content/uploads/2021/02/4-300x300.png" alt="" width="300" height="300" />
 
-<strong>                         Bungee                                                            Canotaje</strong>
+<fuerte> Bungee </fuerte>           <fuerte> Canotaje </fuerte>
 
 
 <h4><strong>Da clic en la imagen para ver video de turismo extremo</strong></h4>
