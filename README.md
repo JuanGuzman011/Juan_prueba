@@ -8,7 +8,6 @@
 
 
 Turismo</b></span>: Sabemos que nuestros clientes son lo más importante, nos esmeramos por cumplir sus sueños en deportes extremos satisfaciendo nuestra calidad de servicio, cuyo objetivo complacer a las familias con nuestros diferentes servicios.
-<strong>Descripción de nuestros servicios:</strong>
 
 <html>
     <body>
