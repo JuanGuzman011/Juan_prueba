@@ -23,4 +23,5 @@ Turismo</b></span>: Sabemos que nuestros clientes son lo más importante, nos es
  	<li><strong><span style="color: #f18811;">Bungee Jumping</span>:</strong> Deporte extremo de saltar de un puente muy alto sitios similares con una larga cuerda elástica atada a sus piernas, de modo que cuando vallas llevando a su limite evite golpearte contra el suelo.</li>
 </ul>
 
-<strong><button name="button">Video de guía <a href="https://youtu.be/CZtZUqxmyrY"</a> </button></strong
+<strong>Da clic en la imagen para que ver video de turismo extremo </strong></li>
+</ul>
