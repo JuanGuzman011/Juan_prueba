@@ -24,3 +24,5 @@ Turismo</b></span>: Sabemos que nuestros clientes son lo más importante, nos es
 </ul>
 
 <p style="color: red; text-align: center;"><strong>Da clic en la imagen para que ver video de turismo extremo</strong></p>
+
+<a href="https://youtu.be/CZtZUqxmyrY"><img class="size-medium wp-image-4024 aligncenter" src="https://konexionlogistik.com/wp-content/uploads/2021/02/adrenalina-300x200.png" alt="" width="300" height="200" /></a>
