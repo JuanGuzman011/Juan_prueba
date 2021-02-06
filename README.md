@@ -1,4 +1,4 @@
-# Juan_prueba
+# Proyecto
 <html>
     <body>
         <h1> TURISMO EXTREMO </h1>
